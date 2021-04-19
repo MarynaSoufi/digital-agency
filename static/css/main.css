@@ -1789,3 +1789,10 @@ body {
   color: #f8f9fa;
   padding: 72px 0;
 }
+
+.team {
+  margin: 1rem;
+}
+.team__header {
+  text-align: center;
+}
