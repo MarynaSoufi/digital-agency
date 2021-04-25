@@ -10,7 +10,7 @@ const LONGTITUDE = 3.799770;
       this.showModalWindow();
     },
     cacheElements () {
-      this.btnToTopElement = document.querySelector('.btn-to-top');
+      this.btnToTopElement = document.querySelector('.button--toTop');
       this.map = document.querySelector('#wrapper');
       this.myModal = document.getElementById('myModal');
       this.myInput = document.getElementById('myInput');
